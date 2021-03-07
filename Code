@@ -1,0 +1,3 @@
+"<big>"+ "<b>" +"১। উদ্দেশ্য"+"</b>" +"</big>"+ ChrW(13) + {MeetingMinutesReport.Purpose}+'&nbsp;<br>' 
++"<big>"+"<b>" +"২। আলোচ্য বিষয়"+"</b>"+"</big>"+ ChrW(13)+{MeetingMinutesReport.DiscussionTopics}+'&nbsp;<br>'
++"<big>"+"<b>" +"৩। আলোচিত বিষয়"+"</b>"+"</big>"+ ChrW(13)+{MeetingMinutesReport.DiscussedTopics}+'&nbsp;<br>'
